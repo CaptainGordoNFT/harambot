@@ -14,17 +14,17 @@
     "env": {
         "YAHOO_KEY" : {
             "description": "Yahoo Consumer Key",
-            "value": "",
+            "value": "dj0yJmk9Tkw3cGNlaXJJWTl5JmQ9WVdrOVYzVnFUWFJaUkdJbWNHbzlNQT09JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PWE2",
             "required": "true"
         },
         "YAHOO_SECRET" : {
             "description": "Yahoo Consumer Secret",
-            "value": "",
+            "value": "143161763c3dd4656cd383ded209f469ecade4bd",
             "required": "true"
         },
         "DISCORD_TOKEN" : {
             "description": "Discord bot token",
-            "value": "",
+            "value": "6a569cfec666f31ccb8aadec29b8b6d0372fadd8a56e789d1ea337a278e32ec9",
             "required": "true"
         }
     },
